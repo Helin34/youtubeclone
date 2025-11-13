@@ -16,4 +16,4 @@ React, React Router, Axios ve RapidAPI (YouTube API) kullanılmıştır.
 
 ## 🖼️ Önizleme
 
-![Demo](youtube.gif)
+![youtube.gif](youtube.gif)
