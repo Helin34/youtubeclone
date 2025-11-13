@@ -16,4 +16,6 @@ React, React Router, Axios ve RapidAPI (YouTube API) kullanılmıştır.
 
 ## 🖼️ Önizleme
 
-![youtube clone](./youtube.gif)
+<p align="center">
+  <img src="https://github.com/Helin34/youtubeclone/blob/main/public/youtube.gif?raw=true" width="720" alt="YouTube Clone Preview" />
+</p>
