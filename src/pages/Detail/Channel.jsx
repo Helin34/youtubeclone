@@ -1,5 +1,6 @@
 import millify from 'millify';
 import React from 'react'
+import Card from '../../components/Card';
 import { AiFillLike, AiFillDislike } from "react-icons/ai";
 
 
